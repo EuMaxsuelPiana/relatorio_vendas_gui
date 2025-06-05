@@ -1,4 +1,4 @@
-# 🧾 Gerador de Relatórios de Vendas
+🧾 Gerador de Relatórios de Vendas
 
 Aplicativo em Python com interface gráfica que permite:
 
